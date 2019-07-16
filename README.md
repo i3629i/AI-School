@@ -8,11 +8,12 @@
 선형변환? : 벡터에 행렬을 곱해 또 다른 벡터를 만드는 함수. , 하나의 벡터 공간에 또 다른 벡터 공간으로, 벡터의 특징을 유지한 채 변환하는 방법.
 ### 식1
 A = 
-$ \begin{bmatrix}
+$$ \begin{bmatrix}
 -1 & 2 \\
 1 & 1
 \end{bmatrix}$
-  b = $ \begin{bmatrix}
+  b = $$
+  \begin{bmatrix}
 3 \\
 2
 \end{bmatrix}$
